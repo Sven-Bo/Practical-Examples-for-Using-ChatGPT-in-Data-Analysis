@@ -8,8 +8,7 @@ Links to the ChatGPT conversation history ⤵
 - SQL Generation: https://shareg.pt/1fWlHku
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/IAWMMi_VFOI/0.jpg)](https://youtu.be/IAWMMi_VFOI)
 
 
 ## Get to Know Me & Stay Connected
